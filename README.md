@@ -1,2 +1,2 @@
 # Data-analysis-algorithms
-These data analysis algorithms calculate the equation for the linear regression, as well as the correlation coefficient between 2 sets of data
+These are just some data analysis algorithms that you can use for correlations, linear regressions, etc
