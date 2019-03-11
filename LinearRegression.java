@@ -30,7 +30,7 @@ public class LinearRegression{
 
  double a = ((sum(y)*sum2(x))-(sum(x)*sum(x,y)))/((n*sum2(x))-Math.pow(sum(x),2)); 
   
-  //formula for the slope B  
+  // formula for the slope B  
   double b = ((n*sum(x,y))-(sum(x)*sum(y)))/((n*sum2(x))-Math.pow(sum(x),2)); 
 
  
